@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xh5PGdIeH7A=",
+  "success": true,
+  "projectFilePath": "/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/GameOOP.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
