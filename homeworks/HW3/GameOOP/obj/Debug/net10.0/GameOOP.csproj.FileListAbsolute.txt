@@ -1,0 +1,15 @@
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/bin/Debug/net10.0/GameOOP
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/bin/Debug/net10.0/GameOOP.deps.json
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/bin/Debug/net10.0/GameOOP.runtimeconfig.json
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/bin/Debug/net10.0/GameOOP.dll
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/bin/Debug/net10.0/GameOOP.pdb
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/GameOOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/GameOOP.AssemblyInfoInputs.cache
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/GameOOP.AssemblyInfo.cs
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/GameOOP.csproj.CoreCompileInputs.cache
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/GameOOP.sourcelink.json
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/GameOOP.dll
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/refint/GameOOP.dll
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/GameOOP.pdb
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/GameOOP.genruntimeconfig.cache
+/home/alex/main_dataARCH/school/programming/TPP/ttp_2026-27/homeworks/HW3/GameOOP/obj/Debug/net10.0/ref/GameOOP.dll
